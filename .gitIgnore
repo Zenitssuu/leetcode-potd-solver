@@ -1,0 +1,5 @@
+.env
+_.env.example
+
+node_modules
+data
